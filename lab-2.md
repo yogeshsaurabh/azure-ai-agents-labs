@@ -23,6 +23,7 @@ In this task, you will build a simple AI Agent that processes data and generates
 
    ![](./media/oct-azure-aiagent-lab1-10.png)
 
+
 1. Run the first cell to import necessary libraries and load environment variables for working with Azure AI Projects. This setup enables secure authentication and interaction with Azure AI services.
 
    ![](./media/new/f7.png)

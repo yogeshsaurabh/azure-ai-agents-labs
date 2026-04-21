@@ -171,7 +171,7 @@ In this task, you will configure the necessary permissions for the Azure AI Sear
 
          >**Note**: If you are not able to select **Standard Pricing Tier**, and see **Standard is unavailable to select due to high demand**, use another region and select **Standard Pricing Tier** for AI Search.
 
-         ![](./media/new/AIsearchunavailable.png)
+         ![](./media/AIsearchunavailable.png)
 
 1. On the **Review + create** tab, click **Create** to deploy the search service.
 
